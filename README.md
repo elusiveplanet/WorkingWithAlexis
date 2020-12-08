@@ -10,7 +10,7 @@ I consider myself an enabler at heart—this means that I love getting the oppor
 #### :earth_americas: It Takes All Kinds
 Diversity, equity, and inclusion are a part of everything I do, and it genuinely takes all kinds of people to make something great.
 #### :bow: Practice Empathy
-Empathy is so important in our daily lives, from interacting with customers and stakeholders to talking to coworkers and family members. It's a cruicial part of being a good leader, and I expect that you share this value with me.
+Empathy is so important in our daily lives, from interacting with customers and stakeholders to talking to coworkers and family members. It's a crucial part of being a good leader, and I expect that you share this value with me.
 #### :sound: Communication
 I appreciate over-communication over under. Soft responses like “will read later” or a reacji in Slack are greatly appreciated.
 #### :repeat: Consistent and Timely Feedback
