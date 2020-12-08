@@ -33,4 +33,4 @@ I strive to deliver quality results in a timely manner. I rise against any poten
 I'm here to do what I love, writing code, building cool things, and help people do the best work of their lives. That's what I find fun, and I hope that we'll be able to have some fun together along the way too. Emoji and reacji are my favorite, and keep things informal. I thrive in spaces that allow me to be my full unadulterated self, and I hope you can join me in doing so.
 
 
-Let's work together and do the best work of our lives together! :beers: :confetti_ball:
+Let's work together and do the best work of our lives! :beers: :confetti_ball:
