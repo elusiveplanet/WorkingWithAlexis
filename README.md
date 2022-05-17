@@ -4,7 +4,7 @@
 
 ### I try to abide by these core principles.
 #### :busts_in_silhouette: People First, Always
-I firmly believe psychological safety is critical to the success of any engineering team. Learning means mistakes will happen, it's up to us to create a culture of support after key failures to ensure constructive learning can happen.
+I firmly believe psychological safety is critical to the success of any engineering team. Learning means mistakes will happen, it's up to us to create a culture of support after a mistake.
 #### :information_desk_person: Invest in Others
 I consider myself an enabler at heart—this means that I love getting the opportunity to invest in others and help them do the best work of their lives. It is my hope that you do the same.
 #### :earth_americas: It Takes All Kinds
