@@ -21,4 +21,4 @@ Accessibility is at the forefront of every design decision that I make. Making s
 I'm here to do what I love, writing code, building great product, and help people do the best work of their lives. That's what I find most rewarding, and I hope that we'll be able to have some fun together along the way too.
 
 
-Let's work together and do the best work of our lives! :confetti_ball:
+Let's build something incredible! :confetti_ball:
