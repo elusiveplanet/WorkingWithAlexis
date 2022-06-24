@@ -10,7 +10,7 @@ I consider myself an enabler at heart and appreciate the opportunity to invest i
 #### :milky_way: Build for Everyone
 Accessibility is at the forefront of every design decision that I make. Making sure everyone can use what we build is central to my mission.
 #### :bow: Compassion by Default
-To create world-class products and engineering teams, I look to first understand how I can support both teammates and users. I take a vested interest in their success and well-being.
+To create world-class products and engineering teams, I look to first understand how I can support both teammates and users. I take a vested interest in their success and strive to be their strongest advocate.
 #### :sound: Writing > Talking
 I appreciate over-communication vs under. Soft responses like “will read later” or a reacji in Slack are greatly appreciated. Writing in-depth helps me drive clarity of thought in strategic and tactical discussions. I've found this creates a culture where teammates are eager to and can easily share and collaborate.
 #### :repeat: Consistent and Timely Feedback
